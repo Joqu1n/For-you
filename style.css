@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 @import url('https://fonts.googleapis.com/css2?family=Coiny&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sriracha&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
@@ -1022,4 +1023,5 @@ body {
     cursor: pointer;
     color: white;
     z-index: 10000000000000000;
+
 }
